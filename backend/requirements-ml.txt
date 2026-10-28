@@ -1,0 +1,3 @@
+# Optional: embeddings for seeding, PDF ingestion and semantic search
+-r requirements.txt
+sentence-transformers>=3.1
